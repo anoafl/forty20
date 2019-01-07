@@ -1,0 +1,10 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Analysis of NRL"
+theme = "hyde-hyde"
+
+[[menu.main]]
+    name = "Portfolio"
+    identifier = "portfolio"
+    weight = 1
+    url = "/portfolio/"

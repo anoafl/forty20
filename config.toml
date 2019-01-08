@@ -11,6 +11,6 @@ theme = "hyde-hyde"
     
 [[menu.main]]
     name = "About"
-    identifier = "About"
+    identifier = "about"
     weight = 2
     url = "/about/"    

@@ -8,3 +8,9 @@ theme = "hyde-hyde"
     identifier = "portfolio"
     weight = 1
     url = "/portfolio/"
+    
+[[menu.main]]
+    name = "About"
+    identifier = "About"
+    weight = 2
+    url = "/about/"    

@@ -3,6 +3,16 @@ languageCode = "en-us"
 title = "Analysis of NRL"
 theme = "hyde-hyde"
 
+[Params]
+    intro = true
+    description = "Variance Semi- Explained"
+
+[params.social]
+  	twitter = "htr3n"
+  	keybase = "htr3n"
+  	github = "htr3n"
+
+
 [[menu.main]]
     name = "Portfolio"
     identifier = "portfolio"
